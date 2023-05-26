@@ -14,7 +14,11 @@ mat-card {
 }
 
 mat-card-actions {
-  justify-content: right;
+  justify-content: center;
   margin-right: 1em;
   margin-bottom: 1em;
+}
+
+.btn-space {
+  margin-left: 5px;
 }
